@@ -5,3 +5,7 @@
 ``` python
 print("Hello World!")
 ```
+
+- [ ] First item
+- [x] Second item
+- [ ] Third item
